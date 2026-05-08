@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/**
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform.lock.hcl
+
+# Variable files
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
+
+# macOS
+.DS_Store
